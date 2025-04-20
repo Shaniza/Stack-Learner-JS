@@ -24,4 +24,5 @@ switch (today) {
   case 6:
     console.log("Today is Saturday");
     break;
+  default:console.log("Not a valid number")  
 }
