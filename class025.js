@@ -1,4 +1,4 @@
-//JS Logical Operators
+//JS Logical Operators-video 25
 var a = 30
 var b = 20
 var c = 40
@@ -20,4 +20,5 @@ var check1 = !(a>b)
 console.log("Inversion of (a>b):", check1)
 
 var check2 = !(c>d)
+
 console.log("Inversion of (c>d):", check2)
