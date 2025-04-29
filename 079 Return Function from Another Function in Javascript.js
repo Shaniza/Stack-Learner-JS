@@ -1,19 +1,19 @@
-// function greet(msg){
-//     function greetings(name){
-//         return msg+', '+name+' !'
-//     }
+function greet(msg){
+    function greetings(name){
+        return msg+', '+name+' !'
+    }
     
-//     return greetings
-// }
-// var gm = greet("Good day")
-// console.log(gm("Anin"))
+    return greetings
+}
+var gm = greet("Good day")
+console.log(gm("Anin"))
 
-// var gn = greet('Good Night')
-// var msg = gn("Cat")
-// console.log(msg)
+var gn = greet('Good Night')
+var msg = gn("Cat")
+console.log(msg)
 
-// var hello = greet("Hello")
-// console.log(hello("Stars"))
+var hello = greet("Hello")
+console.log(hello("Stars"))
 
 
 
